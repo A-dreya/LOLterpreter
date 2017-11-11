@@ -237,7 +237,8 @@ public class MainFrame extends javax.swing.JFrame {
 
         pack();
     }// </editor-fold>//GEN-END:initComponents
-
+    //Lexical Analyzer
+    //Loop through the lexemes and scan
     private void lexicalAnalysis(){
       //Once the execute button was pressed, the program will search for lexemes
       //TODO add your handling code here:
